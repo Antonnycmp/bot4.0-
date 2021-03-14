@@ -341,7 +341,7 @@ async function starts() {
 				Iv: '𝗠𝗮𝗮𝗳 𝗹𝗶𝗻𝗸 𝘁𝗶𝗱𝗮𝗸 𝘃𝗮𝗹𝗶𝗱☹️'
 				},
 				only: {
-					group: '[❗] Este comando só pode ser usado em grupos! ❌',
+					group: '[❗] Este comando só pode ser usado em grupos Porra! ❌',
 					premium: '[❗] ESTE PEDIDO É SO PARA *USUÁRIOS PREMIUMS*',
 					mod: '[❗] ESTE PEDIDO É ESPECÍFICO PARA USUARIO MOD DARK BOT*',
 					benned: 'Você para a banda, por favor, contate o proprietário para abrir sua banda',
